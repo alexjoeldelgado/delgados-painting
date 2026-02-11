@@ -1,0 +1,71 @@
+{
+  "galleryImages": [
+    {
+      "src": "/images/gallery/horizontal-1.jpg",
+      "alt": "Freshly painted living room",
+      "orientation": "horizontal"
+    },
+    {
+      "src": "/images/gallery/vertical-4.jpg",
+      "alt": "Detail of painted trim and doors",
+      "orientation": "vertical"
+    },
+    {
+      "src": "/images/gallery/horizontal-3.jpg",
+      "alt": "Exterior repaint of a single-family home",
+      "orientation": "horizontal"
+    },
+    {
+      "src": "/images/gallery/vertical-1.jpg",
+      "alt": "Painted stairway and hallway",
+      "orientation": "vertical"
+    },
+    {
+      "src": "/images/gallery/vertical-2.jpg",
+      "alt": "Commercial interior repaint",
+      "orientation": "vertical"
+    },
+    {
+      "src": "/images/gallery/horizontal-2.jpg",
+      "alt": "Office lobby repaint",
+      "orientation": "horizontal"
+    },
+    {
+      "src": "/images/gallery/horizontal-4.jpg",
+      "alt": "Exterior siding and trim repaint",
+      "orientation": "horizontal"
+    },
+    {
+      "src": "/images/gallery/vertical-3.jpg",
+      "alt": "Apartment interior repaint",
+      "orientation": "vertical"
+    }
+  ],
+  "clientProjects": [
+    {
+      "code": "SMITH-INT-0426",
+      "name": "Smith Residence – Interior Repaint",
+      "address": "123 Maple Street, Orlando, FL",
+      "startDate": "2026-04-26",
+      "status": "Scheduled",
+      "notes": "Two-bedroom interior repaint, satin finish on trim."
+    },
+    {
+      "code": "OAK-OFFICE-0503",
+      "name": "Oak Plaza – Office Suite",
+      "address": "Suite 204, Oak Plaza, Orlando, FL",
+      "startDate": "2026-05-03",
+      "status": "In scheduling",
+      "notes": "Lobby and hallway repaint outside business hours."
+    },
+    {
+      "code": "LAKE-HOA-0515",
+      "name": "Lakeside HOA – Building B",
+      "address": "Building B, Lakeside Complex, Orlando, FL",
+      "startDate": "2026-05-15",
+      "status": "Tentative",
+      "notes": "Exterior trim and railings, weather dependent."
+    }
+  ]
+}
+
